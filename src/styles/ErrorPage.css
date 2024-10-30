@@ -1,0 +1,24 @@
+.error-container {
+    text-align: center;
+    margin:none;
+}
+.error-title{
+    font-size: 2.5rem;
+    color: red;
+}
+.error-message{
+    font-size: 1.2 rem;
+}
+.error-link {
+    margin-top: 20 px;
+    display: inline-block;
+    padding: 10px, 20px;
+    background-color: cadetblue;
+    color: white;
+    text-decoration: none;
+    border-radius: 5 px;
+}
+
+.error-link:hover{
+    background-color:darkcyan ;
+}
