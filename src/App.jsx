@@ -7,7 +7,8 @@ import NewUserRegistrationForm from "./pages/NewUserRegisterForm";
 import Error from "./pages/Error";
 import CreateRecipe from "./pages/CreateRecipe";
 import RecipeList from "./components/RecipeList";
-import MyRecipes from "./pages/MyRecipes"; // Import MyRecipes
+import MyRecipes from "./pages/MyRecipes";
+
 
 const App = () => {
   return (
