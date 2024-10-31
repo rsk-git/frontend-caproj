@@ -1,6 +1,7 @@
-# Capstone Backend Project
+# Capstone Frontend Project
 
 # Description
+
 This is the MERN stack frontend/client application for the Recipe Search where users browse and search recipes. It is built with react-router-dom from React for navigation and axios for API communications.The application features, user authenticaton for login and registration user pages.  It provides Recipe search, managment and Navigation between pages through HashRouter.
 
 
